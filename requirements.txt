@@ -1,0 +1,24 @@
+# Data
+pandas==2.2.3
+numpy==2.1.3
+scikit-learn==1.5.2
+xgboost==2.1.3
+imbalanced-learn==0.12.4
+
+# Visualization
+matplotlib==3.9.4
+seaborn==0.13.2
+
+# MLflow (install skinny version to avoid pyarrow conflict)
+mlflow-skinny==2.17.2
+
+# Kafka
+kafka-python==2.0.2
+
+# Database
+psycopg2-binary==2.9.10
+redis==5.2.1
+
+# Utilities
+python-dotenv==1.0.1
+jupyterlab==4.3.4
