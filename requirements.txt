@@ -13,7 +13,7 @@ seaborn==0.13.2
 mlflow-skinny==2.17.2
 
 # Kafka
-kafka-python==2.0.2
+kafka-python-ng==2.2.3
 
 # Database
 psycopg2-binary==2.9.10
